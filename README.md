@@ -22,8 +22,6 @@ The main goal is to turn raw property data into useful information that can help
 - **Matplotlib and Seaborn** — for data visualization, if used in the notebook.
 - **Jupyter Notebook** — for executing code and documenting the analysis.
 
-*Note: Confirm these libraries against the project's actual notebook before publishing.*
-
 ## 📂 Project Structure
 
 ```text
